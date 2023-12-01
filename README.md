@@ -25,6 +25,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Telethon](https://img.shields.io/badge/telethon-0088cc?style=for-the-badge&logo=telegram)
+![Telebot](https://img.shields.io/badge/telebot-0088cc?style=for-the-badge&logo=telegram)
 ![WEB3](https://img.shields.io/badge/web3-090909?style=for-the-badge&logo=ethereum)
 
 ## 🌐 Socials
