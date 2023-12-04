@@ -17,17 +17,17 @@
 
 ## 💼 Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Telethon](https://img.shields.io/badge/telethon-0088cc?style=for-the-badge&logo=telegram)
-![Telebot](https://img.shields.io/badge/telebot-0088cc?style=for-the-badge&logo=telegram)
-![WEB3](https://img.shields.io/badge/web3-090909?style=for-the-badge&logo=ethereum)
+![Python](https://img.shields.io/badge/python-070707?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-070707?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-070707?style=for-the-badge&logo=html5&logoColor=%23E34F26.svg)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-070707?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-070707?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-070707?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-070707?style=for-the-badge&logo=mysql&logoColor=white)
+![Telethon](https://img.shields.io/badge/telethon-070707?style=for-the-badge&logo=telegram)
+![Telebot](https://img.shields.io/badge/telebot-070707?style=for-the-badge&logo=telegram)
+![WEB3](https://img.shields.io/badge/web3-070707?style=for-the-badge&logo=ethereum)
 
 ## 🌐 Socials
 
-[![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/HolmenGS)
+[![Telegram](https://img.shields.io/badge/telegram-070707?style=for-the-badge&logo=telegram)](https://t.me/HolmenGS)
